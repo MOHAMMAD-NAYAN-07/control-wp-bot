@@ -33,6 +33,7 @@
         "plugins/ai.js",
         "plugins/uid.js",
         "plugins/viewOnce.js",
+        "plugins/delete.js",
         "main.js",
         "package.json"
       ],
