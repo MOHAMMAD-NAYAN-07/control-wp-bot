@@ -17,5 +17,26 @@
       ],
       "delete": []
     }
+  },
+  {
+    "version": "1.0.6",
+    "date": "2025-08-16",
+    "changes": [
+      "Modified main.js and package.json",
+      "add love cmnd and fix error"
+    ],
+    "update": {
+      "add": [
+        "plugins/love.js"
+      ],
+      "modify": [
+        "plugins/ai.js",
+        "plugins/uid.js",
+        "plugins/viewOnce.js",
+        "main.js",
+        "package.json"
+      ],
+      "delete": []
+    }
   }
 ]
