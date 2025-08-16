@@ -12,6 +12,7 @@
       ],
       "modify": [
         "main.js",
+        "plugins/viewOnce.js",
         "package.json"
       ],
       "delete": []
