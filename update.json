@@ -39,5 +39,21 @@
       ],
       "delete": []
     }
+  },
+  {
+    "version": "1.0.7",
+    "date": "2025-08-18",
+    "changes": [
+      "Updated update.js for autoUpdate handling",
+      "Improved config default system"
+    ],
+    "update": {
+      "add": [],
+      "modify": [
+        "update.js",
+        "package.json"
+      ],
+      "delete": []
+    }
   }
 ]
