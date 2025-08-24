@@ -55,5 +55,29 @@
       ],
       "delete": []
     }
+  },
+  {
+    "version": "1.0.8",
+    "date": "2025-08-24",
+    "changes": [
+      "Added new plugins: ephoto, antispam, song, video, allbots",
+      "Modified profilePic and tagAll plugins"
+    ],
+    "update": {
+      "add": [
+        "plugins/ephoto.js",
+        "plugins/antispam.js",
+        "plugins/song.js",
+        "plugins/video.js",
+        "plugins/allbots.js"
+      ],
+      "modify": [
+        "plugins/profilePic.js",
+        "plugins/tagAll.js",
+        "main.js",
+        "package.json"
+      ],
+      "delete": []
+    }
   }
 ]
