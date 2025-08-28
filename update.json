@@ -96,6 +96,7 @@
         "plugins/ping.js",
         "plugins/song.js",
         "plugins/allbots.js",
+        "plugins/delete.js",
         "main.js",
         "package.json"
       ],
