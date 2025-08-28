@@ -79,5 +79,27 @@
       ],
       "delete": []
     }
+  },
+  {
+    "version": "1.0.9",
+    "date": "2025-08-28",
+    "changes": [
+      "Added new plugins: admin",
+      "Modified help, ping, song"
+    ],
+    "update": {
+      "add": [
+        "plugins/admin.js"
+      ],
+      "modify": [
+        "plugins/help.js",
+        "plugins/ping.js",
+        "plugins/song.js",
+        "plugins/allbots.js",
+        "main.js",
+        "package.json"
+      ],
+      "delete": []
+    }
   }
 ]
