@@ -114,6 +114,7 @@
       "add": [],
       "modify": [
         "plugins/antilink.js",
+        "plugins/song.js",
         "main.js",
         "package.json"
       ],
