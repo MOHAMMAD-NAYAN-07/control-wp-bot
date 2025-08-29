@@ -102,5 +102,22 @@
       ],
       "delete": []
     }
+  },
+  {
+    "version": "1.1.0",
+    "date": "2025-08-29",
+    "changes": [
+      "fix only admin prblm",
+      "Modified antilink"
+    ],
+    "update": {
+      "add": [],
+      "modify": [
+        "plugins/antilink.js",
+        "main.js",
+        "package.json"
+      ],
+      "delete": []
+    }
   }
 ]
