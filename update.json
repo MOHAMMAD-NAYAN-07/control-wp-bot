@@ -120,5 +120,26 @@
       ],
       "delete": []
     }
+  },
+  {
+    "version": "1.1.1",
+    "date": "2025-08-31",
+    "changes": [
+      "add play",
+      "Modified help, song, video2"
+    ],
+    "update": {
+      "add": [
+        "plugins/play.js"
+      ],
+      "modify": [
+        "plugins/help.js",
+        "plugins/song.js",
+        "plugins/video2.js",
+        "main.js",
+        "package.json"
+      ],
+      "delete": []
+    }
   }
 ]
