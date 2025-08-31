@@ -133,6 +133,7 @@
         "plugins/play.js"
       ],
       "modify": [
+        "plugins/bot.js",
         "plugins/help.js",
         "plugins/song.js",
         "plugins/video2.js",
