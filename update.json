@@ -154,7 +154,6 @@
   ],
   "update": {
     "add": [
-      "Nayan/lib/isapprv.js",
       "plugins/approve.js"
     ],
     "modify": [
