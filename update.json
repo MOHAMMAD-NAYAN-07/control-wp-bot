@@ -142,5 +142,27 @@
       ],
       "delete": []
     }
+  },
+  {
+  "version": "1.1.2",
+  "date": "2025-09-11",
+  "changes": [
+    "Added 'approve' system for groups",
+    "Added 'request' command for group approval",
+    "Enhanced bot prefix management per group",
+    "Fixed bugs in ephoto, and prefix commands"
+  ],
+  "update": {
+    "add": [
+      "Nayan/lib/isapprv.js",
+      "plugins/approve.js"
+    ],
+    "modify": [
+      "plugins/prefix.js",
+      "main.js",
+      "package.json"
+    ],
+    "delete": []
+  }
   }
 ]
