@@ -163,5 +163,26 @@
     ],
     "delete": []
   }
+  },
+  {
+  "version": "1.1.3",
+  "date": "2025-10-02",
+  "changes": [
+    "love, ephoto file prblm fix",
+    "clearCache & speech cmnd added"
+  ],
+  "update": {
+    "add": [
+      "plugins/clearCache.js",
+      "plugins/speech.js"
+    ],
+    "modify": [
+      "plugins/ephoto.js",
+      "plugins/love.js",
+      "index.js",
+      "package.json"
+    ],
+    "delete": []
+  }
   }
 ]
