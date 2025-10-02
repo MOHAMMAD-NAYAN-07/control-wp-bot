@@ -177,6 +177,7 @@
       "plugins/speech.js"
     ],
     "modify": [
+      "plugins/clear",
       "plugins/ephoto.js",
       "plugins/love.js",
       "index.js",
