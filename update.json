@@ -186,5 +186,26 @@
       "plugins/clear.js"
     ]
   }
+  },
+  {
+  "version": "1.1.4",
+  "date": "2025-11-21",
+  "changes": [
+    "connection error fix"
+  ],
+  "update": {
+    "add": [
+    ],
+    "modify": [
+      "grpUpCmd/demote.js",
+      "grpUpCmd/gdbye.js",
+      "grpUpCmd/promote.js",
+      "grpUpCmd/welcome.js",
+      "main.js",
+      "package.json"
+    ],
+    "delete": [
+    ]
+  }
   }
 ]
