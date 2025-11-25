@@ -208,5 +208,34 @@
     "delete": [
     ]
   }
+  },
+  {
+  "version": "1.1.5",
+  "date": "2025-11-25",
+  "changes": [
+    "Added groupConnected.js module.",
+    "Added img.js plugin.",
+    "Added groupRules.js plugin.",
+    "Updated help.js for better formatting.",
+    "Redesigned uptime.js display style.",
+    "Updated bot main system (main.js).",
+    "Updated package.json dependencies."
+  ],
+  "update": {
+    "add": [
+      "Nayan/lib/groupConnected.js",
+      "plugins/img.js",
+      "plugins/groupRules.js"
+    ],
+    "modify": [
+      "plugins/help.js",
+      "plugins/imagine.js",
+      "plugins/uptime.js",
+      "main.js",
+      "package.json"
+    ],
+    "delete": [
+    ]
+  }
   }
 ]
